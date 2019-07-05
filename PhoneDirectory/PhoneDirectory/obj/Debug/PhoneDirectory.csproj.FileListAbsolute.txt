@@ -1,0 +1,17 @@
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll.config
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.pdb
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\EntityFramework.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\Newtonsoft.Json.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\System.Net.Http.Formatting.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\System.Web.Http.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\System.Web.Http.WebHost.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\EntityFramework.xml
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.xml
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\Newtonsoft.Json.xml
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\System.Net.Http.Formatting.xml
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\System.Web.Http.xml
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\bin\System.Web.Http.WebHost.xml
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.dll
+C:\Sahana\For Suresh\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
