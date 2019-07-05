@@ -16,9 +16,9 @@ URL : http://localhost:50236/api/Phone/AddPhoneNumber
 
 Api Request : 
 {
-	"customerId":"5555",
-	"customerName": "AAAA",
-	"customerPhoneNumber": "0412543689",
+	"customerId":"6666",
+	"customerName": "BBBB",
+	"customerPhoneNumber": "0412543680",
 	"active": true
 }
 
