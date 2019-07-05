@@ -38,3 +38,10 @@ Api Request:
 Api Response: string
 "success" OR "failed"
 
+
+
+
+NOT IMPLEMENTED:
+UNIT TESTS
+LOGGING
+BETTER EXCEPTION HANDLING
