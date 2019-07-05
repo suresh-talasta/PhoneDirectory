@@ -1,6 +1,8 @@
 # PhoneDirectory
 API for Phone number directory with customer details
 
+Can be verified in postman using the details below.
+
 Phone Directory API is able to :
 •	Get all phone numbers
 GET
