@@ -42,6 +42,6 @@ Api Response: string
 
 
 NOT IMPLEMENTED:
-UNIT TESTS
-LOGGING
+UNIT TESTS(using Nsubstitute),
+LOGGING(nlogger/log4net),
 BETTER EXCEPTION HANDLING
